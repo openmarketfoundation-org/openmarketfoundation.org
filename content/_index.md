@@ -12,6 +12,7 @@ seo:
  noindex: false # false (default) or true
 ---
 
+
 # The Open Market: Reinventing Organizations in the Knowledge Economy
 
 
@@ -154,7 +155,7 @@ Money serves as a medium of exchange, a unit of account, and a store of value. H
 Curation is a crucial mechanism for value creation, especially in the knowledge economy, a world rich in information and ideas. The act of selecting and promoting specific content or projects becomes invaluable in this context. This process is intertwined with collective and individual identities, reflecting Bourdieu's social capital theory [4], where value is derived from networks of relationships and shared meanings.
 
 
-### 2. Curation Markets
+## 2. Curation Markets
 
 Introduced by S. De La Rouvière in 2017, Curation Markets offer a novel approach in the knowledge economy to assign value to intellectual contributions through tokenization and bonding curves. This model values intellectual property, especially in digital and open-source domains, as determined by community consensus and engagement.
 
