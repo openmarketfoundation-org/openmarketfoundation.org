@@ -268,11 +268,11 @@ Curators may be referred to as 'Speculators.' However, speculation often implies
 
 Curators make an informed decision in selecting and investing their capital, ahead of time, in projects that—they expect—will provide increasing utility in the form of faster innovation. The Open Market is a race to the fastest innovation, and Curators are betting on the winners.
 
-## 3.2. Brand Value
+### 3.2. Brand Value
 
 In our model, we view Brands as the ability of one project to attract more or fewer contributions than another. Contributions are traded-in valuables such as time and effort from contributors, or paid money from consumers and investors. Despite the free and reproducible nature of open-source projects, some have substantially more valuable Brands than others. The Brand can be leveraged to capture created economic value. However, being an intangible, Brand itself is difficult to capture directly.
 
-### 3.2.1. Brand Curation
+#### 3.2.1. Brand Curation
 
 A brand signifies a project's identity and reputation. It is shaped by factors like the project's utility, governance quality, contributor expertise, and public perception. Brands can be about marketing and also about a project's ethos and community trust.
 
@@ -280,11 +280,11 @@ Brand is the intangible outcome of many intangibles; it is the result of a curat
 
 The strength of a brand lies in its ability to establish trust and recognition among its stakeholders.
 
-### 3.2.2. Role of Trademarks
+#### 3.2.2. Role of Trademarks
 
 Trademarks serve to legally protect a project's identity. They ensure that the name and logo are used consistently and correctly, safeguarding the project's reputation.
 
-### 3.2.3. Brand Valuation
+#### 3.2.3. Brand Valuation
 
 Brand valuation is a complex process that aims to quantify the worth of a brand in financial terms. Multiple methodologies exist. Eventually, the estimated Brand or Trademark valuation can be used in corporate accounting to increase the worth of the assets owned by a company.
 
@@ -296,19 +296,19 @@ The top three approaches to brand valuation are:
 
 3. **Income-based**: This method focuses on the future net earnings attributable to the brand to determine its present value. This approach involves forecasting future revenue streams and discounting them to present value using an appropriate discount rate.
 
-### 3.2.4. Brand Equity
+#### 3.2.4. Brand Equity
 
 Brand Equity refers to the qualitative added value brought by the brand. It's a measure of a brand's ability to retain and attract customers, influence market perception, and command loyalty, often translating into competitive advantages.
 
 Brand Equity is about the brand’s strength in the market and its potential to create value, while Brand Value is the realization of this potential in monetary terms.
 
-### 3.2.5. Importance of FLOSS Brands
+#### 3.2.5. Importance of FLOSS Brands
 
 Brand is a critical asset of FLOSS projects. In fact, FLOSS projects often have strict and restrictive Trademark policies to protect their Brands.
 
 FLOSS projects effectively chose to put all their intellectual property in the public domain. However, their differentiating value indeed lies in their Brand Equity, in their ability to attract various contributions, to create a desirable identity and awareness.
 
-## 3.3. Brand Equity Tokens (BET)
+### 3.3. Brand Equity Tokens (BET)
 
 **In the Open Market model, we introduce Brand Equity Tokens (BETs), designed to assign a market value to the brand equity of open-source projects.** These tokens are linked to the project's research and development (R&D) spending. The idea is that as a project grows and develops, the value of its brand—and consequently the value of BETs—increases.
 
@@ -318,7 +318,7 @@ We propose that each BET should represent a share in the project's trademark. Th
 
 Further details on the technical aspects of BETs, including how they are traded and how they interact with other types of financial securities, will be addressed in a subsequent white paper. This will include a more in-depth discussion of how BETs fit into the broader financial ecosystem of the Open Market.
 
-## 3.4. BET Bonding Curves
+### 3.4. BET Bonding Curves
 
 In the Open Market model, the pricing of Brand Equity Tokens (BETs) is determined by a bonding curve, a mathematical function that sets the price of each BET. The specific parameters of this curve will be detailed in future discussions.
 
@@ -330,7 +330,7 @@ When BET holders sell or 'burn' their tokens, the action reduces the number of B
 
 While this buy-sell dynamic mirrors speculative elements seen in traditional stock markets, its unique aspect in the Open Market model is the direct connection to the utility and success of the underlying project. The value of BETs is not just speculative but also reflects the actual performance and perceived utility of the project associated with the brand equity.
 
-## 3.5. BET Stakes
+### 3.5. BET Stakes
 
 The Open Market model incorporates the concept of staking BETs (Brand Equity Tokens) for crowdfunding specific projects. This approach involves contributors being rewarded with BETs in exchange for their valuable contributions to a project. Essentially, contributors earn a stake in the project's brand equity.
 
@@ -338,7 +338,7 @@ This model is flexible regarding how contributions are made. Whether contributio
 
 The application of BETs is diverse. They can be used in various business models, such as bounties for completing specific tasks, general crowdfunding efforts, support for roadmap milestones, portfolio investments, accepting donations, offering subscriptions, or facilitating sales. This versatility allows BETs to adapt to various needs and strategies of different open-source projects, providing a flexible framework for rewarding contributions that enhance a project's value.
 
-## 3.6. Open Market Protocol (OMP)
+### 3.6. Open Market Protocol (OMP)
 
 The Open Market Protocol (OMP) is the framework designed to implement Brand Equity Tokens (BETs) and their associated bonding curve mechanism. This protocol is foundational to the operation of the Open Market model, facilitating the issuance, trading, and management of BETs. The OMP defines the financial infrastructure and APIs of the Open Market.
 
@@ -350,7 +350,7 @@ The OMP will be open-source, allowing anyone to review, contribute to, or use th
 
 A subsequent white paper is planned to provide a detailed and comprehensive implementation proposal for the OMP.
 
-## 3.7. Open Market Exchange (OME)
+### 3.7. Open Market Exchange (OME)
 
 In the Open Market infrastructure, Open Market Exchanges (OMEs) implement the Open Market Protocol to allow participants to efficiently and properly trade BETs.
 
@@ -365,7 +365,7 @@ OME responsibilities include:
 
 OMEs may choose different business models, such as imposing trading fees or offering subscription services.
 
-## 3.8. Open Market Foundation (OMF)
+### 3.8. Open Market Foundation (OMF)
 
 We propose the Open Market Foundation (OMF) as a non-profit, open-governance entity tasked with federating the Open Market Exchanges that run the Open Market Protocol.
 
@@ -419,17 +419,7 @@ Note: The Open Market model does not clearly outline how to capture value at the
 - **Incentives**: The primary driver is the financial return potential, coupled with the desire to support impactful innovation.
 - **Outcome**: Investment decisions are based on a balance of risk and potential reward. An equilibrium is achieved when investors can accurately assess the long-term viability and growth potential of projects, avoiding overvaluation and bubbles.
 
-### 4.2. Economics
-
-#### 4.2.1. Tokenization and Brand Equity
-
-Tokenizing brand equity incentivizes early investment and fosters a sense of ownership among stakeholders. This results in a dynamic market where the value of contributions and brand equity is continuously evaluated and adjusted.
-
-#### 4.2.2. Bonding Curves
-
-The Open Market model encourages early participation and investment, as entry costs increase with growing interest and investment in a project. This approach has the potential for speculative bubbles, counterbalanced by the intrinsic value of open-source projects.
-
-### 4.3. Nash Equilibrium in Stakeholder Interactions
+### 4.2. Nash Equilibrium
 
 Focusing on the strategic interactions among the Open Market model stakeholders, we can identify Nash Equilibria: stable states where stakeholders have no incentive to unilaterally change their strategies.
 
@@ -438,7 +428,7 @@ Focusing on the strategic interactions among the Open Market model stakeholders,
 - **Contributors**: Decide whether to invest their skills and time.
 - **Curators (Investors)**: Allocate financial resources towards projects, influenced by potential returns and project viability.
 
-#### 4.3.1. Nash Equilibria Analysis
+#### 4.2.1. Nash Equilibria Analysis
 
 | Stakeholder Pair          | Nash Equilibrium   | Interpretation                                                                                   |
 |---------------------------|--------------------|--------------------------------------------------------------------------------------------------|
@@ -449,13 +439,23 @@ Focusing on the strategic interactions among the Open Market model stakeholders,
 | Governance & Curator      | (Invest, Invest)   | Alignment in investment strategies between governance and curators increases its brand value. |
 | Contributor & Curator     | (Contribute, Invest) | Contributor activity is incentivized by curators backing, and reciprocally. |
 
-#### 4.3.2. Open Market Game Incentives
+#### 4.2.2. Open Market Game Incentives
 
 - **Interdependence**: The Open Market ecosystem is characterized by a high degree of interdependence among stakeholders. The strategies and actions of one group significantly influence the behaviors of others.
 
 - **Engagement and investment**: Active engagement from consumers and strategic investment from governance and curators are pivotal in maintaining the equilibrium of the market.
 
 - **Symbiotic relationships**: The relationships among stakeholders are largely symbiotic. Cooperation and mutual benefit are required for maintaining a healthy and productive ecosystem.
+
+### 4.3. Economics
+
+#### 4.3.1. Tokenization and Brand Equity
+
+Tokenizing brand equity incentivizes early investment and fosters a sense of ownership among stakeholders. This results in a dynamic market where the value of contributions and brand equity is continuously evaluated and adjusted.
+
+#### 4.3.2. Bonding Curves
+
+The Open Market model encourages early participation and investment, as entry costs increase with growing interest and investment in a project. This approach has the potential for speculative bubbles, counterbalanced by the intrinsic value of open-source projects.
 
 
 ## 5. Conclusion and Future Directions
